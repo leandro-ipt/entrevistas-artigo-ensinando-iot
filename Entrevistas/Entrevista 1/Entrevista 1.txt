@@ -1,0 +1,41 @@
+e a aceitação dos alunos durante a disciplina de internet das coisas.
+Com a primeira pergunta, de que forma as atividades práticas e o desenvolvimento do projeto
+ajudaram ou não na compreensão dos conceitos teóricos da disciplina?
+Foi super importante ter essa prática, esse desenvolvimento do projeto, o contato com o laboratório,
+todas as fases, desde a prototipação da placa e da proteção dela,
+todo o projeto como um todo, o desenho do projeto, contribuiu de forma superativa
+para a gente entender e compreender os conceitos que foram, a princípio, passados pelo professor nas primeiras aulas,
+e aí deu todo o sentido para a gente fazer o resultado final, desenvolver os relatórios,
+foi muito positivo.
+Ok, obrigado. A próxima pergunta.
+Como foi para você participar do processo de criação e desenvolvimento de um produto
+ou protótipo de IoT durante a disciplina?
+Foi bem desafiador, no início, no princípio, a gente ficou bem perdido, principalmente para escolher o tema,
+depois para desenvolver esse tema, o professor provocou a gente durante todo o processo,
+porque o começo sempre parecia muito simples, ele sempre está sugerindo provocações,
+desafios para que a gente evoluísse ou tivesse o produto mais robusto,
+e sentia momentos que foram bem desafiadores, até o momento de coletar os dados, de colocar os protótipos em funcionamento,
+mas no final a gente conseguiu fazer alguns dias de coleta, simular alguns dados sintéticos e concluir o trabalho.
+Ótimo, obrigado pela resposta. A questão 3 agora.
+Como foi a experiência de produzir um texto ou um relatório científico relacionado ao projeto desenvolvido na disciplina?
+Essa foi outra parte legal também, conhecer o Overleaf, trabalhar com a ferramenta, reproduzir o texto,
+colocar em palavras o que a gente desenvolveu ali na prática, e depois dar um certo orgulho ter um documento com seu nome,
+um artigo que você desenvolveu, pesquisou.
+Eu confesso que até se eu pudesse já teria feito essa transição de carreira para ser um pesquisador, é um trabalho legal.
+Legal, interessante.
+Questao 4. Quais conhecimentos ou habilidades você acredita ter desenvolvido ao longo dessa experiência de aprendizagem?
+Na verdade, conhecia muito pouco de Arduino, muito pouco mesmo, praticamente desde o processo,
+o processo de instala de aula, de acesso a plataforma online, o protótipo, e depois comprar os equipamentos,
+entender como é que a gente fazia as portas conversares com os dispositivos, com os sensores.
+Então para mim foi de grande aprendizado, bacana mesmo.
+Legal. Bom, agora a quinta questão. Quais foram os principais desafios ou aspectos mais difíceis para você ao participar da disciplina
+como essa abordagem metodológica?
+Houve algo na dinâmica das atividades que tenha causado dificuldade ou tenha algo que possa melhorar no método?
+A gente até conversou sobre isso no final da disciplina.
+Acho que seria legal ter mais aulas práticas, mais acesso ao laboratório. A gente já teve um dia.
+Se tivéssemos mais dias, tudo bem que ficaram disponíveis para que a gente fosse lá, mas essa é a dificuldade de a gente ir no IPT.
+Todo mundo trabalha durante a semana. Não tem um tempo, então se a gente tivesse essa disponibilidade durante as aulas mesmo,
+talvez três, quatro dias, quatro aulas destinadas no laboratório para desenvolver ali o projeto, acho que isso seria mais produtivo, seria mais bacana.
+Ok, obrigado. Aqui a gente finaliza a entrevista com o Adriano. Muito obrigado, Adriano, pela entrevista.
+Eu agradeço.
+Para a gravação aqui. Bom, valeu, mano. Acho que eu já parei.

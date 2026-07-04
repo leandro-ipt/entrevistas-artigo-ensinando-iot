@@ -1,0 +1,7 @@
+Professor, as atividades práticas ajudaram a compreender a integração entre a captura
+que os dispositivos físicos fazem e as APIs das linguagens de programação, C, Python,
+na leitura desses dispositivos através das portas, através de toda a programação que
+muito dessas linguagens já trazem para ler tais dispositivos, assim como a integração
+com o banco de dados que salva essas informações que persistem e depois posteriormente a gente
+pode atualizar um dashboard final de monitoramento, de compreensão desses dados. Isso foi bem
+legal, por mais que tenhamos uma excelente aula teórica, é mil vezes melhor compreender e aprender fazendo.

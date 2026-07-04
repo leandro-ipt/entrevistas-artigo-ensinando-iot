@@ -1,0 +1,110 @@
+Aiuti, começar aqui com a primeira pergunta, Dayo, de que forma as atividades práticas
+e o desenvolvimento do projeto ajudaram ou não na compreensão dos conceitos teóricos
+da disciplina?
+Essa foi uma disciplina das que eu mais gostei, toda grade, pelo cunho também atualizado
+dela, pela forma como foi explicada e, lógico, pela abordagem meio laboratorial.
+A gente teve lá as amostras, brincamos com o SP32, eu já tinha brincado com o SP32,
+mas na versão anterior, então para mim usar a versão nova, o S3, foi bacana, foi onde
+eu pude aprender mais, então teve esse benefício extra, que foi uma atualização dentro da
+própria plataforma do S3, então o fato da gente ter visto a parte teórica, a parte
+conceitual do que é a Aiuti em geral, a parte de hardware, a parte de software, a parte
+da plataforma, da conexão com a nuvem e depois o amassamento dos dados, seja para gêmeos
+digitais, ou seja, para construir dashboards, painéis de monitoramento e, dali, começar
+a extrair coisas para o big data, para fazer tendências e até mesmo para alimentar modelos
+de IA, isso foi assim, abriu bem os horizontes, as aplicações em cidades inteligentes, claro,
+uma outra disciplina, então a gente já fez a conexão e foi bacana, eu acho que essa
+abordagem prática tem muito mais a ver com o ensino moderno, baseado na ação, baseado
+em projetos do que só o, blá, blá, blá, download de informação, então para mim foi muito bom.
+Obrigado. Bom, a questão dois, como foi para você participar do processo de criação e
+desenvolvimento de um produto ou protótipo de Aiuti durante a disciplina?
+Então, seguindo a linha aí que eu já comentei, o fato de ter algo para fazer leva você a buscar
+a informação, então é a diferença entre a educação just in case, talvez vai precisar dela um dia,
+e a educação just in time, ou seja, eu preciso fazer isso, o que eu preciso aprender para fazer isso?
+Então, as duas têm vantagens e desvantagens, mas é bom ter essa experiência do just in case,
+então assim, tem que aprender a programar lá o S3, tem que conectar esse sensor aqui, poxa,
+eu já deixei com esse sensor, não sei nem o que que é, então vai atrás, pega o driver, pega exemplos,
+puxa, nem é legal, testa, ux, não deu certo, não consegue enviar, não consegue receber, esse atrito,
+essa fricção é que gera também a vontade de aprender, que gera a questão da curiosidade e
+também o feedback rápido ali, porque você fez, não deu certo, poxa, eu já aprendi, protótipos são
+falhar, então a falha daquele protótipo me leva a novas perguntas, buscar mais informação,
+conhecimento, prática, até eu fazer funcionar, isso é o ciclo rápido, entre pesquisa e desenvolvimento,
+então assim, nesse sentido foi muito bom a gente ter essa oportunidade de botar a mão na massa
+enquanto aprendia, por isso que eu falei, baseado em ação, baseado em projeto, é o caminho mesmo para
+ação, não só moderna, mas a futura também. Legal, agora a questão 3, como foi a experiência de produzir
+um texto ou um relatório científico relacionado ao projeto desenvolvido na disciplina? Esse foi um
+outro benefício que também está se estendendo, não só na disciplina, mas até agora na minha
+vida, de mestrado, vou comentar, então a abordagem baseada na prática, mas também com o intuito de
+documentar essa experiência, não só dentro da sala de aula, mas também a necessidade de fazer um
+projeto, e esse projeto, com os outros colegas, eu tive a felicidade de participar de um projeto
+para o próprio IPT, então o meu projeto foi instrumentar um ensaio que eles fazem para
+certificar materiais para poder emitir um certificado para o fabricante. Materiais, no caso,
+era o tubo de conexão, tubo de PVC, para poder transmitir ou transportar água quente, então era
+um ensaio que alternava água fria com água quente e precisava coletar a temperatura, a pressão,
+para fazer parte do relatório que vai para certificação. É um ensaio longo, fica três meses lá,
+dia e noite, não para, e antes ele era coletado por uma instrumentação profissional, mas é cara e
+também estava bem defasada, e o equipamento que fazia conexão, o laptop, ele não tinha conexão
+com a internet, era totalmente ali local, os caras tinham que vir para extrair os arquivos de log,
+e precisava coletar os relatórios que eles precisavam. Então a ideia foi, poxa, vamos botar um IoT aqui,
+que também pega as mesmas medidas, vamos comparar com as medidas do laboratório profissional,
+e aí a gente faz uma comparação para ver se é cabível, se é uma boa alternativa a
+essa instrumentação mais cara, e já leva os dados para nuvem, ou seja, você pode consultar e baixar
+e não precisa ir lá no laboratório mais. Então foi excelente, e a partir desse projeto, dessa
+experiência que a gente fez, surgiu então um convite para eu realizar uma coisa similar na
+minha pesquisa, ajudando o IPT também num projeto maior. Então assim, não só dentro da disciplina,
+a gente tem que fazer o artigo, toda a disciplina de se fazer um artigo foi exercitada, a gente
+já o resultado final, e esse artigo pode evoluir até para me ajudar aqui na minha
+tese, na dissertação do mestrado. Então para mim foi muito bem acertado. Legal, que bom.
+A questão 4 agora, quais conhecimentos ou habilidades você acredita ter desenvolvido ao longo dessa
+experiência de aprendizagem? Como eu comentei um pouco, foi uma atualização tecnológica,
+mexer com uma plataforma, uma versão um pouco mais moderna do SP3, no caso do SP32. Então foi isso,
+brincar ali mesmo com Lora, por exemplo, eu nunca tinha mexido com Lora One, então foi bacana,
+foi mais uma coisa que eu aprendi. Então atualização tecnológica, novas tecnologias,
+eu sempre quis aprender, então foi bom ter mexido. A questão de ter que desenvolver com colegas,
+era um projeto distribuído que eu fiz um pedaço, outra colega fez outro, e cada um contribuiu,
+era um grupo de só de três. Então a gente distribuiu, na questão mesmo de montar o dispositivo
+para instalar no laboratório, foi bacana porque a gente teve que trabalhar com impressão 3D,
+montar o circuito, então tivemos que desenhar o circuito, ir lá, montar a plaquinha, montar a
+caixinha, botar lá no laboratório, lidar com problemas de ruído, falta de energia, as coisas
+práticas que no dia a dia, isso nem vai para o artigo às vezes, mas você tem que lidar. Então
+são conhecimentos que são riquíssimos, essa experiência prática de novo, alimentando,
+reforçando não só a parte teórica, mas dando conhecimento extra, porque ao a gente sair do
+mundo teórico, da ideia, da hipótese, colocar essa ideia na prática, no contato com a realidade,
+é onde a gente aprende, porque ficar só na ideia é beleza, PowerPoint e o papel aceita tudo,
+mas você ter a oportunidade de levar uma bufetada da realidade, não é bem assim que você está
+fazendo o seu modelo, precisa melhorar, então é um outro aprendizado que é só fazendo,
+não tem estudo, não tem livro, não tem nada que te ensine.
+Legal, interessante. Bom, a questão 5 agora, quais foram os principais desafios ou aspectos
+mais difíceis para você ao participar da disciplina como é, com essa abordagem metodológica?
+Ouve na dinâmica das atividades que tenha causado dificuldade e tem algo que possa melhorar no método?
+Toda tentativa de se instaurar uma prática leva, acabamos de falar aqui, leva esse tapa de realidade
+que a gente fala, o choque da realidade, ou seja, tem um modelo mental, eu acho que a realidade
+funciona assim, na hora que você leva o choque ali, não é bem assim, está faltando isso,
+está faltando aquilo. No caso da condução da disciplina, por exemplo,
+por melhor que tenha sido o planejamento, organização e a boa vontade dos
+instrutores, sempre tem o aspecto surpresa, então a preparação dos kits, poxa, aqui está queimado,
+esse kit aqui não está funcionando, tem que reprogramar, não tem equipamento suficiente
+para o mundo, sempre vai ter essa parte logística, muitas vezes é que traz a surpresa e realmente
+é um desafio grande ter todo o kit completo, vamos dizer assim, para poder cada um desenvolver
+suas experiências, enquanto isso não tem nenhum problema, fica lições aprendidas, então poxa,
+quantas pessoas tem na equipe, na sala, quantos grupos, quantos kits, vamos sempre deixar um
+recap, coisas logísticas, isso é importante. A questão do artigo, como sempre, é uma disciplina,
+tem um tempo limitado, a gente tem outras coisas para fazer na vida, trazendo isso fica mais
+apertado, principalmente porque você tem que fazer a parte prática para depois documentar e criar,
+escrever a dissertação no artigo, então assim, pela correria, pelo tempo necessário, talvez puder
+melhor, lógico, mas a gente sabe que nem sempre vai ser um mundo ideal, de novo, um choque de
+realidade, o que a gente quer fazer com o que dá para fazer, o que cabe no tempo, vamos dizer assim,
+e o fato de a gente ter que ir lá, por exemplo, a aula ser presencial, ajuda porque como é que você
+ia fazer uma aula virtual prática, você teria que mandar o kit para todos os alunos para eles
+estarem em casa para atender uma aula virtual, ou usar simuladores, pior ainda, tá, conecta aqui,
+conecta ali, beleza, funciona, simulador é uma semi-realidade, é um modelo da realidade, bem
+limitado, mas já ajuda, se for o caso, ter também um backup de alguma aula, que também, usar
+simuladores, eu também acho que é uma boa, a gente usou lá, ele mostrou, eu lembro que o
+cara abriu lá alguns tipos de simuladores, então foi bacana conhecer, um lá eu não conheci,
+então foi uma outra atualização bacana, simuladores, então fica assim, de repente fazer uma aula mesmo,
+talvez virtual, a gente não teria que precisar ir, sair lá, uma dica, mas no geral, como eu falei,
+foi uma das disciplinas que eu mais achei prática, produtiva, teve esses outros benefícios que se
+viram agora, né, tô colhendo já, ainda colhendo os benefícios da pesquisa, da prática, do artigo,
+tudo isso tem trazido bastante, vamos dizer assim, alegria, né, tô contente com a oportunidade e
+parabéns aos instrutores, né, o professor Alessandro e o outro eu não lembro, cara, desculpa aí,
+você põe o nome dele lá, mas foi muito bacana, tá bom, obrigado, não tem muito crítico para
+fazer não viu, obrigada daí, eu vou parar a gravação aqui, tá ok, aí parei a gravação.

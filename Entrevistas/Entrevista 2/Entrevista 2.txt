@@ -1,0 +1,48 @@
+Bom, boa tarde Virgílio, a gente está começando aqui a entrevista por um artigo que será
+escrito sobre a disciplina de IoT.
+A primeira pergunta é de que forma as atividades práticas e o desenvolvimento do projeto ajudaram
+ou não na compreensão dos conceitos teóricos da disciplina.
+Entendi. No meu caso, eu não venho dessa área de IoT, tudo que eu sabia era muito teórico
+até o momento, então a parte do conhecimento de pôr em prática mesmo eu achei bem legal.
+Falando em número, acho que 70% da minha compreensão do conteúdo teórico veio depois
+que a gente colocou a mão na nossa mesa de aplicar os conceitos e tentar na construção do projeto.
+Legal, obrigado. A segunda pergunta é como foi para você participar do processo de criação
+e desenvolvimento de um produto ou protótipo de IoT durante a disciplina?
+Se eu não tentar linkar isso, como eu já participo de alguns projetos, foi legal,
+foi desafiador para entender como linkar a teoria com a prática, e aí eu estou acabando
+usando até no meu mestrado, na dissertação agora que eu estou fazendo desse sentido,
+eu consegui linkar. O que a gente, como experiência desenvolvedora, vai lá e faz,
+e depois busca ou pega na internet, ou pega de algum lugar.
+Diferente de lá que a gente buscou artigos, aí entendeu alguns conceitos, viu como o pessoal fez
+e aplicou. Então foi desafiador no sentido de aprender, linkar a teoria de artigos com a prática.
+Legal, interessante. Bom, a próxima pergunta, como foi a experiência de produzir um texto
+ou um relatório científico relacionado ao projeto desenvolvido na disciplina?
+Cara, foi chato, não sei se é sério.
+Porque tem muita técnica que, assim, a gente já fez o TCC, mas no artigo são muitas técnicas
+que eu tive que aprender ali, por mais que era um trabalho em grupo, tudo, mas eu acho que
+primeiro que foi pouco tempo para pôr em prática o que estava vendo de escrita ali na prática mesmo,
+e depois as técnicas, tipo, dominar as técnicas é muito chato, tanto que eu não domino ainda,
+mas estou aprendendo aí no caminho.
+Legal, valeu. A outra pergunta, quais conhecimentos ou habilidades você acredita ter desenvolvido
+ao longo dessa experiência de aprendizagem?
+Tipo, aprendi a trabalhar com o Arduino, que é uma coisa que eu não fazia.
+Linkar os dispositivos ali, acho que então foi um aprendizamento de hardware mesmo,
+tipo, experiência de hardware foi o que eu aprendi.
+E a outra parte foi no processo ali de buscar os artigos e relacionar com o trabalho.
+Tem duas situações ali.
+Ver empiricamente, ver o meu trabalho empírico e ver o que os artigos falam sobre ele.
+Então eu aprendi a fazer mais ou menos esse ponto aí, que foi o que eu estou utilizando na minha dissertação.
+Legal. Bom, e a quinta e última pergunta, quais foram os principais desafios ou aspectos mais difíceis
+para você ao participar da disciplina com essa abordagem metodológica?
+Houve algo na dinâmica das atividades que tenha causado dificuldade e tenha algo que possa melhorar no método?
+O método eu acho legal, eu só achei o tempo da disciplina muito curto nesse sentido.
+E dificuldades, eu tive dificuldades na disciplina, mas não foi nem pela matéria,
+foi pelo trabalho que a gente estava desenvolvendo.
+Na hora de capturar esses dados, capturava a cada hora de um lugar,
+depois não teve a curácia para representar legal os dados,
+porque teve que descartar muita informação nesse sentido.
+Mas acho que o melhor que eu proponho é um tempo maior nesse sentido.
+De preparo, sei lá, um tempo maior de teoria e um tempo maior para o desenvolvimento do projeto prático.
+Tá ótimo, obrigado Virgílio, muito obrigado pela entrevista.
+Vou parar a gravação aqui.
+Aí, parei.

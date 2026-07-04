@@ -1,0 +1,41 @@
+Começando a entrevista aqui sobre o artigo que será escrito sobre a disciplina de IOT.
+A primeira pergunta aqui é de que forma as atividades práticas e o desenvolvimento
+de um projeto ajudaram ou não na compreensão dos conceitos teóricos da disciplina.
+Então, ajudaram bastante a parte prática, porque na parte teórica você não passa por todos os
+desafios que é realmente construir o protótipo. Então, às vezes uma coisa não encaixa na outra,
+você às vezes dimensiona de uma forma ali no desenho técnico e aí na prática você vê
+que não encaixou mesmo ali a plaquinha que você montou e soldou com o envoltório que você precisa
+Então acho que a prática é onde realmente as coisas acontecem e dá para ver as dificuldades
+tudo que precisa para poder realmente fazer a coisa funcionar mesmo. Acho que é isso.
+Legal, interessante. Bom, a segunda pergunta é como foi para você participar do processo
+de criação e desenvolvimento de um produto ou protótipo de IOT durante a disciplina?
+Ah, foi ótimo assim, que juntou vários conceitos, tanto parte de programação como
+soldagem, montagem da placa, então um conhecimento multidisciplinar e fixar a mesma teoria,
+parte de sensor, calibragem, ver as dificuldades que tem cada etapa do desenvolvimento, desde o
+protótipo em si, então foi ótimo assim, foi o que me ajudou a fixar bem o conhecimento mesmo.
+Legal, valeu. A terceira pergunta, como foi a experiência de produzir um texto ou um relatório
+que ficou relacionado ao projeto desenvolvido na disciplina?
+Foi outro desafio grande, digamos assim, porque tem toda a parte de documentar mesmo que foi feito,
+então a gente vê que muitas vezes a gente vai com mais foco ali no protótipo e às vezes não
+funciona, você troca uma peça, põe outra, muda o código, e aí a parte de documentar mesmo todas
+essas fases acaba ficando em segundo plano, então foi bom para entender que é importante
+você mapear, documentar, tirar foto, anotar mesmo os desafios que foram enfrentados em cada etapa,
+e ter contato também com a parte científica de um desenvolvimento de um protótipo, que é assim,
+que eu pelo menos achei bem diferente dos artigos que eu estava acostumado a ver,
+como se fosse um mundo à parte ali, onde tem toda uma, como pode dizer, tem todas
+umas etapas ali a mais que são importantes, então foi bem bacana mesmo.
+Legal, bom a questão 4 agora é quais conhecimentos ou habilidades você acredita ter desenvolvido ao
+longo dessa experiência de aprendizagem? Acho que a criatividade talvez ali de criatividade,
+mas você ter, acho que a criatividade mesmo, de pô, isso aqui não deu certo, mas dá para fazer,
+se a gente trocar esse sensor ou se a gente mudar essa forma de coleta fica melhor, então acho que
+exercitar ali a criatividade e a multidisciplinaridade para você conseguir sair de alguns buracos ali,
+desafios ali, né, que acontecem ali na hora de trabalhar com a IoT.
+Legal, bom a questão 5, quais foram os principais desafios ou aspectos mais difíceis para você ao
+participar da disciplina com essa abordagem metodológica? Houve algo na dinâmica das
+atividades que tenha causado dificuldade e tenha algo que possa melhorar no método?
+Eu achei o método excelente, bastante prática, ter professores ali convidados de outras
+especialidades ali para passar para a gente por todo o processo, eu só, talvez, foi muita coisa
+mas acho que faz parte também, talvez se tivesse mais tempo de aula, mas também não deu para
+absorver, não foi algo que impactou, nem nada disso não, é a vontade de ter feito com mais excelência
+algumas etapas ali e tal, que não deu tempo, mas isso não achei que impactou também não,
+foi assim, excelente o método. Ok, obrigado Igor pela entrevista, vou parar a gravação aqui.
